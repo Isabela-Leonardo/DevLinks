@@ -10,10 +10,10 @@ Visualize o projeto finalizado, online:
 ## 📌 Índice
 
 - [Layout](#-layout)
-  - [Tela Desktop](#📂-tela-desktop)
-  - [Tela Mobile](#📂-tela-mobile)
-  - [Tela Desktop Light](#📂-tela-desktop-light)
-  - [Tela Mobile Light](#📂-tela-mobile-light)
+  - [Tela Desktop](#-tela-desktop)
+  - [Tela Mobile](#-tela-mobile)
+  - [Tela Desktop Light](#-tela-desktop-light)
+  - [Tela Mobile Light](#-tela-mobile-light)
 - [Tecnologias e Ferramenta utilizadas](#tecnologias-e-ferramenta-utilizadas)
 - [Autor](#-autor)
 
