@@ -5,15 +5,15 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 O Projeto foi desenvolvido durante o curso Discover, promovido pela Rocketseat.
 
 Visualize o projeto finalizado, online:
-[Clique AQUI](https://Isabela-Leonardo.github.io/devlinks).
+[Clique AQUI](https://isabela-leonardo.github.io/DevLinks/).
 
 ## 📌 Índice
 
 - [Layout](#-layout)
-  - [Tela Desktop](#📂-tela-desktop)
-  - [Tela Mobile](#📂-tela-mobile)
-  - [Tela Desktop Light](#📂-tela-desktop-light)
-  - [Tela Mobile Light](#📂-tela-mobile-light)
+  - [Tela Desktop](#-tela-desktop)
+  - [Tela Mobile](#-tela-mobile)
+  - [Tela Desktop Light](#-tela-desktop-light)
+  - [Tela Mobile Light](#-tela-mobile-light)
 - [Tecnologias e Ferramenta utilizadas](#tecnologias-e-ferramenta-utilizadas)
 - [Autor](#-autor)
 
@@ -23,19 +23,19 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ### 📂 Tela Desktop
 
-<img src="./gitHub/layoutDesktop.png" width="425" alt="Tela principal" />
+<img src="./gitHub/layoutDesktop.png" width="425" alt="Tela Desktop" />
 
 ### 📂 Tela Mobile
 
-<img src="./gitHub/layoutMobile.png" width="200" alt="Tela de cliente" />
+<img src="./gitHub/layoutMobile.png" width="200" alt="Tela Mobile" />
 
 ### 📂 Tela Desktop Light
 
-<img src="./gitHub/layoutDesktopLayout.png" width="425" alt="Tela de empréstimo" />
+<img src="./gitHub/layoutDesktopLayout.png" width="425" alt="Tela Desktop Light" />
 
 ### 📂 Tela Mobile Light
 
-<img src="./gitHub/layoutMobileLight.png" width="195" alt="Tela de livro" />
+<img src="./gitHub/layoutMobileLight.png" width="195" alt="Tela Mobile Light" />
 
 ## Tecnologias e Ferramenta utilizadas
 
