@@ -23,19 +23,19 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ### 📂 Tela Desktop
 
-<img src="./gitHub/layoutDesktop.png" width="425" alt="Tela principal" />
+<img src="./gitHub/layoutDesktop.png" width="425" alt="Tela Desktop" />
 
 ### 📂 Tela Mobile
 
-<img src="./gitHub/layoutMobile.png" width="200" alt="Tela de cliente" />
+<img src="./gitHub/layoutMobile.png" width="200" alt="Tela Mobile" />
 
 ### 📂 Tela Desktop Light
 
-<img src="./gitHub/layoutDesktopLayout.png" width="425" alt="Tela de empréstimo" />
+<img src="./gitHub/layoutDesktopLayout.png" width="425" alt="Tela Desktop Light" />
 
 ### 📂 Tela Mobile Light
 
-<img src="./gitHub/layoutMobileLight.png" width="195" alt="Tela de livro" />
+<img src="./gitHub/layoutMobileLight.png" width="195" alt="Tela Mobile Light" />
 
 ## Tecnologias e Ferramenta utilizadas
 
