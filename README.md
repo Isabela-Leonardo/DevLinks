@@ -5,7 +5,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 O Projeto foi desenvolvido durante o curso Discover, promovido pela Rocketseat.
 
 Visualize o projeto finalizado, online:
-[Clique AQUI](https://Isabela-Leonardo.github.io/devlinks).
+[Clique AQUI](https://isabela-leonardo.github.io/DevLinks/).
 
 ## 📌 Índice
 
